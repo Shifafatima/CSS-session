@@ -1,0 +1,14 @@
+h2{
+    color:red;
+    border:sold;
+    background-color:black;
+    }
+    p{
+        font-size: 20px;
+        border-bottom:solid;
+        font-weight: 900;
+        background-color: rgb(184, 65, 22);
+    }
+    ul{
+        font-size: 10px;
+    }
