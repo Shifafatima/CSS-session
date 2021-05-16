@@ -1,7 +1,11 @@
-h2{
+    h2{
     color:red;
     border:sold;
     background-color:black;
+    }
+    .name{
+        color: yellowgreen;
+        border-top: solid 3px red;
     }
     p{
         font-size: 20px;
