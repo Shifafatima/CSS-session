@@ -1,8 +1,14 @@
-    h2{
-    color:red;
-    border:sold;
-    background-color:black;
+    body{
+        margin: 0;
+        
     }
+    h2{
+    
+    border:solid;
+    background-color:yellowgreen;
+    padding: 30px;
+    
+    } 
     .name{
         color: yellowgreen;
         border-top: solid 3px red;
@@ -16,3 +22,4 @@
     ul{
         font-size: 10px;
     }
+  
